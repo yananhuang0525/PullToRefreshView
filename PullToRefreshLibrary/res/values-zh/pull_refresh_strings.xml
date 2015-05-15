@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="pull_to_refresh_pull_label">&#160;&#160;&#160;&#160;&#160;&#160;下拉刷新&#8230;</string>
+  <string name="pull_to_refresh_release_label">&#160;&#160;&#160;&#160;&#160;&#160;松手刷新&#8230;</string>
+  <string name="pull_to_refresh_tap_label">&#160;&#160;&#160;&#160;&#160;&#160;点击刷新&#8230;</string>
+  <string name="pull_to_refresh_refreshing_label">&#160;&#160;&#160;&#160;&#160;&#160;正在刷新&#8230;</string>
+</resources>
